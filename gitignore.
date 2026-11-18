@@ -1,0 +1,14 @@
+
+# Dossier de compilation
+build/
+
+# Fichiers temporaires
+*.o
+*.a
+*.so
+
+# Fichiers socket
+*.sock
+
+# Fichiers système
+.DS_Store
